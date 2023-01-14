@@ -1,0 +1,28 @@
+body{
+    background-color: #a7af39b0;
+    color: #4e2909;
+    font-family:'Calibri';
+    font-size: 18px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    margin-left: 150px;
+    margin-right: 150px;
+    text-align: justify;
+   
+}
+.index-text1
+{
+font-size: 24px;
+text-align: center;
+}
+.index-text2
+{
+text-align: left;
+color: #831e0c;
+}
+div{
+    border-top: solid 2px;
+    border-bottom: solid 2px;
+    color: #4e2909;
+    border-radius: 10px;
+}
