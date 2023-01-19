@@ -1,0 +1,16 @@
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.exe
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.deps.json
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.runtimeconfig.json
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.runtimeconfig.dev.json
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.dll
+D:\Figurs\Figurs\Figur\bin\Debug\net5.0\Figur.pdb
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.csproj.AssemblyReference.cache
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.GeneratedMSBuildEditorConfig.editorconfig
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.AssemblyInfoInputs.cache
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.AssemblyInfo.cs
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.csproj.CoreCompileInputs.cache
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.dll
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\refint\Figur.dll
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.pdb
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\Figur.genruntimeconfig.cache
+D:\Figurs\Figurs\Figur\obj\Debug\net5.0\ref\Figur.dll
