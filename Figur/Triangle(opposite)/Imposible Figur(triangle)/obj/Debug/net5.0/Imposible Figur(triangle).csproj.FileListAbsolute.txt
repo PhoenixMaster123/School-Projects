@@ -1,0 +1,16 @@
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).exe
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).deps.json
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).runtimeconfig.json
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).runtimeconfig.dev.json
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).dll
+D:\LeetCode\Problems\Imposible Figur(triangle)\bin\Debug\net5.0\Imposible Figur(triangle).pdb
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).csproj.AssemblyReference.cache
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).GeneratedMSBuildEditorConfig.editorconfig
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).AssemblyInfoInputs.cache
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).AssemblyInfo.cs
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).csproj.CoreCompileInputs.cache
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).dll
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\refint\Imposible Figur(triangle).dll
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).pdb
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\Imposible Figur(triangle).genruntimeconfig.cache
+D:\LeetCode\Problems\Imposible Figur(triangle)\obj\Debug\net5.0\ref\Imposible Figur(triangle).dll
